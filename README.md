@@ -1,4 +1,4 @@
-#LlamaRunner Sample Project
+# LlamaRunner Sample Project
 ## Overview
 This project showcase an example use case of the [LlamaRunner](https://github.com/Jofresh77/LlamaRunner) UE 5.5 plugin. An rudimentary agent controlled by state-tree and [LlamaRunner](https://github.com/Jofresh77/LlamaRunner) will randomly start wandering on game start after each "thought". 
 
